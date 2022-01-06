@@ -12,12 +12,14 @@ The Choices Available in Program Are:-
 ---
 Number Guessing Game
 
- CHOICES:
-0.NOTE: Please Run This Choice Only Once On The System(It will Generate Score=0)
-1.Guess A Number Between 0-100
-2.Guess A Number Between Your Choice Of Range
-3.ScoreCard
-4.To Exit
+CHOICES:
+
+0. NOTE: Please Run This Choice Only Once On The System(It will Generate Score=0)
+1. Guess A Number Between 0-100
+2. Guess A Number Between Your Choice Of Range
+3. ScoreCard
+4. To Exit
+
 Enter your choice 0/1/2/3/4: 
 
 ---
